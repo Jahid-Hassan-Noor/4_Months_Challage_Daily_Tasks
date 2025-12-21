@@ -1,4 +1,4 @@
-# Day - 6 - > DEEP DIVE: Theory: Hash Tables
+# Day - 6 - > DEEP DIVE: Theory: Functions Modularity
 print("Day 6: Deep Dive Exercises")
 
 print()
