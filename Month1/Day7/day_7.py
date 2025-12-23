@@ -1,5 +1,5 @@
-# Day - 6 - > DEEP DIVE: Theory: Error Handling (Exceptions)
-print("Day 6: Deep Dive Exercises")
+# Day - 7 - > DEEP DIVE: Theory: Error Handling (Exceptions)
+print("Day 7: Deep Dive Exercises")
 
 
 print()
