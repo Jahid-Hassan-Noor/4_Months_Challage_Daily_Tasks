@@ -1,3 +1,5 @@
+# Day 8: Deep Dive Exercises
+
 # DEEP DIVE - 1: Micro-Challenge: The Linear Scan (O(N))
 In the linear scan challenge, we check if -5 is present in a list of one million numbers. This operation requires examining each element one by one, resulting in a time complexity of O(N). For very large lists, this approach is slow because every element must be checked until the target is found or the list ends.
 
