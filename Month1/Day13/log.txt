@@ -1,0 +1,2 @@
+Log start
+New log entry added
