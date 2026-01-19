@@ -1,5 +1,5 @@
-# Day - 10 - > DEEP DIVE: Theory: Functional Programming (Lambda Map)
-print("Day 10: Deep Dive Exercises")
+# Day - 11 - > DEEP DIVE: Theory: Functional Programming (Lambda Map)
+print("Day 11: Deep Dive Exercises")
 
 import time
 from functools import reduce
